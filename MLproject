@@ -5,7 +5,7 @@ target: disease_cases
 required_covariates: 
   - population
   - rainfall
-  - temperature
+  - mean_temperature
 supported_period_type: month
 allow_free_additional_continuous_covariates: false
 
